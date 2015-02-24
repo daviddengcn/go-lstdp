@@ -1,7 +1,7 @@
 package lstdp
 
 type Option struct {
-	MinDisp int
-	MaxDisp int
+	MaxD byte
+	T    int
+	T1   int
 }
-
